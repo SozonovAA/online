@@ -64,4 +64,9 @@ void task9(){
     cout<<static_cast<int>(c[0])<<"/"<<static_cast<int>(c[1]);
 
   }
-  
+  void beep(){
+for (int i=0;i<1000;i++){
+  cout<<'\a'<<endl;
+  }
+  }
+

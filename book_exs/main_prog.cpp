@@ -2,5 +2,5 @@
 #include "ch3.h"
 
 int main(){
-task9();
+ch3_task5();
 }
